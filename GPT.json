@@ -1,25 +1,25 @@
 {
-  "id": "com.heikohemminger.sap.gptwidget",
+  "id": "com.audiopicasso.sap.gptwidget",
   "version": "1.0.0",
   "name": "GPT Widget HHE",
   "description": "Custom ChatGPT Widget für SAP Analytics Cloud Heiko Hemminger",
   "newInstancePrefix": "GptWidget",
-  "vendor": "Heiko Hemminger",
+  "vendor": "Heiko Hemminger x Philipp Bossert",
   "eula": "",
   "license": "",
   
   "webcomponents": [
 	{
 	  "kind": "main",
-	  "tag": "com-heikohemminger-sap-gptwidget",
-	  "url": "https:\/\/cdn.jsdelivr.net\/gh\/HeikoHemminger\/SAC@main\/GPT.js",
+	  "tag": "com-audiopicasso-sap-gptwidget",
+	  "url": "https:\/\/cdn.jsdelivr.net\/gh\/Audiopicasso\/SAC@main\/GPT.js",
 	  "integrity": "",
 	  "ignoreIntegrity": true
 	},
 	{
 	  "kind": "builder",
-	  "tag": "com-heikohemminger-sap-gptwidget-builder",
-	  "url": "https:\/\/cdn.jsdelivr.net\/gh\/HeikoHemminger\/SAC@main\/GPT_Builder.js",
+	  "tag": "com-audiopicasso-sap-gptwidget-builder",
+	  "url": "https:\/\/cdn.jsdelivr.net\/gh\/Audiopicasso\/SAC@main\/GPT_Builder.js",
 	  "integrity": "",
 	  "ignoreIntegrity": true
 	}
