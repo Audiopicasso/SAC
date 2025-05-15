@@ -92,7 +92,7 @@
     </table>
     <input value="Update Settings" type="submit">
     <br>
-    <p>Developed by <a target="_blank" href="https://github.com/HeikoHemminger">Heiko Hemminger</a></p>
+    <p>Developed by <a target="_blank" href="https://github.com/Audiopicasso">Philipp Bossert</a></p>
 </form>
 `;
 
