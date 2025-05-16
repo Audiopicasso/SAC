@@ -142,6 +142,6 @@
       }
     }
   }
-customElements.define("com-heikohemminger-sap-gptwidget", Widget);
+customElements.define("com-audiopicasso-sap-gptwidget", Widget);
 })();
   // Angepasster Widget

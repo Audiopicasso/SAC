@@ -140,5 +140,5 @@
       // }
    }
 
-   customElements.define("com-heikohemminger-sap-gptwidget-builder", GptWidgetBuilderPanel);
+   customElements.define("com-audiopicasso-sap-gptwidget-builder", GptWidgetBuilderPanel);
 })();
